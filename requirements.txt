@@ -3,3 +3,4 @@ langchain_community==0.0.24
 Pillow==10.2.0
 streamlit==1.31.1
 dashscope==1.14.1
+chromadb==0.4.24
